@@ -274,16 +274,14 @@ button {
    NAV BUTTONS
 =========================== */
 
-.navButtons {
-    position: absolute;
-    bottom: 30px;
-    width: 100%;
-
-    display: flex;
-    justify-content: space-between;
-    padding: 0 40px;
+.navButtons{
+    position:absolute;
+    bottom:30px;
+    width:100%;
+    display:flex;
+    justify-content:space-between;
+    padding:0 40px;
 }
-
 /* ===========================
    LETTER (UNCHANGED FONT)
 =========================== */
